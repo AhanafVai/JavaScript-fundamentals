@@ -13,7 +13,11 @@ var mul = onion * egg;
 // div
 var div = onion / egg;
 
+// mod
+var mod = onion % egg;
+
 console.log(add);
 console.log(sub);
 console.log(mul);
 console.log(div);
+console.log(mod);
